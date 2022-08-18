@@ -1,5 +1,5 @@
 body {
-background-color: #e8e5e5;
+background-color: #f7f4cb;
 }
 
 p {
@@ -190,10 +190,10 @@ p {
 .button {
   display: inline-block;
   border-radius: 4px;
-  background-color: #ffffff;
+  background-color: #353482;
   border: none;
-  color: #353482 ;
-  a{color: #353482 !important;}
+  color: #f7f4cb ;
+  a{color: #f7f4cb !important;}
   text-align: center;
   font-size: 28px;
   padding: 20px;
