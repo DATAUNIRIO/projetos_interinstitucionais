@@ -2,6 +2,10 @@ body {
 background-color: #f7f4cb;
 }
 
+h1 {
+  font-size: 50px;
+}
+
 p {
     font-size: 20px;
 }
@@ -37,16 +41,16 @@ p {
 #menu1 {
 	height:150px;
 	width:150px;
-	background-color:#8F8f4A;
+	background-color:#119DA4;
 	top:100px;
     padding: 5px;
     border-radius: 5px;
-	background: -moz-linear-gradient(#8F8f4A,#0e5766);  
-    background: linear-gradient(#8F8f4A,#0e5766);  
+	background: -moz-linear-gradient(#119DA4,#80DED9);  
+    background: linear-gradient(#119DA4,#80DED9);  
 
 }
 #menu1:hover {
-	background: linear-gradient(#D1D16C,#0e5766);
+	background: linear-gradient(#3066BE,#6D9DC5);
 	/* background-color:#D1D16C;*/
 }
 
