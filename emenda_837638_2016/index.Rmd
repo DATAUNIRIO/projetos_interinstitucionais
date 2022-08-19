@@ -19,8 +19,8 @@ output:
 ```
 
 # Emenda
-## Número da emenda
-## Parlamentar: senador Romário
+Número da emenda:xxxxxxxx-2023   
+Parlamentar: Deputado Fulano
 
 # Escopo
 
