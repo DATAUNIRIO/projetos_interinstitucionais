@@ -1,0 +1,111 @@
+---
+title: "Emenda Parlamentar"
+output: 
+  html_document:
+    toc: true
+    theme:
+      bg: "#f7f4cb"
+      fg: "#1d468a"
+      primary: "#1d468a"
+      secondary: "#1d468a"
+      base_font:
+        google: Prompt
+      heading_font:
+        google: Proza Libre
+---
+
+```{r setup, include=FALSE}
+
+```
+
+# Emenda
+## Número da emenda
+## Parlamentar: senador Romário
+
+# Escopo
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt mi eget luctus sodales. Nullam enim lectus, malesuada vitae felis id, condimentum aliquam justo. Pellentesque scelerisque leo nec velit fringilla, in auctor felis ultrices. Aenean tincidunt enim a lacinia tempor. Quisque ut metus ac felis placerat cursus nec et risus. Duis semper mollis posuere. Donec mollis mi nisi, at aliquam dui elementum non. Pellentesque orci augue, faucibus ac semper efficitur, lacinia at risus. Duis dignissim purus est, vitae pulvinar lectus sollicitudin eget. Maecenas at odio sed est dictum sagittis. Fusce convallis fringilla libero, non cursus orci mattis a. Donec id interdum sapien.
+
+Mauris laoreet, sem vel eleifend eleifend, magna enim elementum odio, ac cursus turpis lorem sed mi. Aenean vel diam feugiat lorem feugiat tincidunt. Morbi non congue risus. In a nulla sem. Cras sit amet lectus leo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam eget dapibus ligula, at convallis augue. Suspendisse sit amet auctor enim.
+
+coordenador: fulano
+gestor: sicrano
+
+
+---
+
+## Projeto básico 
+(vinculo com o parlamentar)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt mi eget luctus sodales. Nullam enim lectus, malesuada vitae felis id, condimentum aliquam justo. 
+
+## Convênios, termos de colaboração, contratos e aditivos
+(vinculo com a ONG)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt mi eget luctus sodales. Nullam enim lectus, malesuada vitae felis id, condimentum aliquam justo. 
+
+**COLOCAR OS PDFS AQUI**
+
+---
+
+# Orçamento
+
+## Orçamento total
+
+R$ 1.000.000,00
+
+## Tem aditivo? Sim/Não
+
+Valor do aditivo  
+
+R$ 0,00
+
+## Cronograma fisíco-financeiro
+Mês 1 - 400.000,00  
+Mês 2 - 200.000,00  
+Mês 3 - 200.000,00  
+Mês 4 - 200.000,00  
+
+## Orçamento detalhado por item
+
+**colocar tabela aqui**
+
+**COLOCAR OS PDFS AQUI**
+
+---
+
+# Plano de Trabalho
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt mi eget luctus sodales. Nullam enim lectus, malesuada vitae felis id, condimentum aliquam justo. 
+
+**COLOCAR OS PDFS AQUI**
+
+
+## Estatuto SOLAZER/ICA/FAIRPLAY/ETC...
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt mi eget luctus sodales. Nullam enim lectus, malesuada vitae felis id, condimentum aliquam justo. 
+
+COLOCAR OS PDFS AQUI
+
+---
+
+# Prestação de contas
+
+### Valor empenhado, executado e pago 
+via API da transparência;
+### número do empenho
+
+## Prestação de contas em pdf 
+**COLOCAR O PDF AQUI **
+
+## Relatorio final
+**COLOCAR O PDF AQUI **
+
+## Parecer da prestação de contas
+Parecer da Prestacao_de_Contas em pdf (se já existir)  
+**COLOCAR O PDF AQUI **
+
+---
+
+Será que vale a pena colocar aqui também publicações, produtos e resultados alcançados???
+
