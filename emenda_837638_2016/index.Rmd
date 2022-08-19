@@ -19,6 +19,8 @@ output:
 # convenios_unirio_mais_brasil
 # repositorio/plataforma_mais_brasil/codigo/criacao_tabela_links.R
 
+# paleta de cores
+#https://coolors.co/3066be-119da4-6d9dc5-80ded9-aeecef
 ```
 
 # Emenda
