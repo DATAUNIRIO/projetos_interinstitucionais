@@ -15,6 +15,9 @@ output:
 ---
 
 ```{r setup, include=FALSE}
+##### olhar os repositorios
+# convenios_unirio_mais_brasil
+# repositorio/plataforma_mais_brasil/codigo/criacao_tabela_links.R
 
 ```
 
