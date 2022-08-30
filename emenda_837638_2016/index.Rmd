@@ -79,7 +79,7 @@ R$ 0,00
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt mi eget luctus sodales. Nullam enim lectus, malesuada vitae felis id, condimentum aliquam justo. 
 
 **COLOCAR OS PDFS AQUI**
-
+<!--
 
 ## Estatuto SOLAZER/ICA/FAIRPLAY/ETC...
 
@@ -88,6 +88,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt mi eget
 COLOCAR OS PDFS AQUI
 
 ---
+
+
 
 # Prestação de contas
 
@@ -105,7 +107,14 @@ via API da transparência;
 ## Parecer da prestação de contas
 Parecer da Prestacao_de_Contas (se já existir)  
 
+
+
 [https://voluntarias.plataformamaisbrasil.gov.br/voluntarias/ConsultarProposta/ResultadoDaConsultaDeConvenioSelecionarConvenio.do?idConvenio=582908&destino=](https://voluntarias.plataformamaisbrasil.gov.br/voluntarias/ConsultarProposta/ResultadoDaConsultaDeConvenioSelecionarConvenio.do?idConvenio=582908&destino=)
+
+(837638_2016)
+[https://voluntarias.plataformamaisbrasil.gov.br/voluntarias/prestacaocontas/ConsultaConvenio/consultaConvenio.jsf?usecase=SelecionarConvenio](https://voluntarias.plataformamaisbrasil.gov.br/voluntarias/prestacaocontas/ConsultaConvenio/consultaConvenio.jsf?usecase=SelecionarConvenio)
+
+
 
 
 
@@ -113,3 +122,4 @@ Parecer da Prestacao_de_Contas (se já existir)
 
 Será que vale a pena colocar aqui também publicações, produtos e resultados alcançados???
 
+-->
