@@ -1,6 +1,7 @@
 ---
 title: "Esboço do Manual"
-author: "Prof. Steven Dutt Ross"
+subtitle: "Como acessar a prestação de contas das emendas em seis passos"
+author: "GT Verbas"
 date: "2022-08-30"
 output: html_document
 ---
@@ -45,4 +46,13 @@ Clique em "Prestação de contas".
 
 ![](C:/Users/Hp/Documents/GitHub/portal_transparencia/exemplo_de_consulta3.jpg)
 
-e baixe o aquivo com a prestação de contas do convênio (se estiver dispónível).
+e baixe o aquivo com a prestação de contas do convênio.
+
+## Passo 6 
+
+Aqui vamos buscar os arquivos chamados "Parecer", "Relatório" e "Publicações" (se estiverem dispóníveis) para ter uma ideia da execução do projeto.
+
+![](C:/Users/Hp/Documents/GitHub/portal_transparencia/exemplo_de_consulta4.jpg)
+
+
+
