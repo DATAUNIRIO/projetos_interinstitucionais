@@ -1,0 +1,37 @@
+---
+title: "  "
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+Aqui poderia ter os links dos vídeos dos projetos (vídeos, lives, entrevistas).
+
+## Vídeos
+*  <span style=" font-size: 20px; font-weight:bold; color:#1a1a1a;">Vídeo 1</span>
+*  <span style=" font-size: 20px; font-weight:bold; color:#1a1a1a;">Vídeo 2</span>
+*  <span style=" font-size: 20px; font-weight:bold; color:#1a1a1a;">Vídeo 3</span>
+<br>
+
+## Lives
+*  <span style=" font-size: 20px; font-weight:bold; color:#1a1a1a;">Live 1</span>
+*  <span style=" font-size: 20px; font-weight:bold; color:#1a1a1a;">Live 2</span>
+*  <span style=" font-size: 20px; font-weight:bold; color:#1a1a1a;">Live 3</span>
+<br>
+
+## Entrevistas
+*  <span style=" font-size: 20px; font-weight:bold; color:#1a1a1a;">Entrevista 1</span>
+*  <span style=" font-size: 20px; font-weight:bold; color:#1a1a1a;">Entrevista 2</span>
+*  <span style=" font-size: 20px; font-weight:bold; color:#1a1a1a;">Entrevista 3</span>
+<br>
+
+
+

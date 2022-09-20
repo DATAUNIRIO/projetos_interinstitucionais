@@ -1,0 +1,33 @@
+---
+title: "  "
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+## Textos
+
+<br>
+<br>
+
+Aqui poderia ter os textos desenvolvidos ao longo do projetos (pdfs, blogs, outros textos).
+
+
+*  <span style=" font-size: 20px; font-weight:bold; color:#1a1a1a;">Pdf 1</span>
+*  <span style=" font-size: 20px; font-weight:bold; color:#1a1a1a;">Pdf 2</span>
+*  <span style=" font-size: 20px; font-weight:bold; color:#1a1a1a;">Pdf 3</span>
+
+<br>
+<br>
+

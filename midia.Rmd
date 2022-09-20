@@ -1,0 +1,34 @@
+---
+title: "  "
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+## Inserção na Mídia
+
+<br>
+<br>
+
+<!--https://ufop.br/relatorios-mensais-de-insercao-na-midia-->
+
+<span style=" font-size: 20px; font-weight:bold; color:#1a1a1a;">Entrevistas e matérias publicadas buscando produzir e disseminar o conhecimento nos diversos campos do saber, contribuindo para o exercício pleno da cidadania, mediante formação humanista, crítica e reflexiva.</span>
+
+<br>
+<br>
+
+
+
+

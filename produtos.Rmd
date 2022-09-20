@@ -1,0 +1,39 @@
+---
+title: "  "
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+## Sobre os produtos (livros e artigos)
+
+<br>
+<br>
+
+## Livros
+
+<span style=" font-size: 20px; font-weight:bold; color:#1a1a1a;">
+Livros produzidos em função dos projetos interinstitucionais da UNIRIO.
+</span>
+
+*  **[Mobilidade Urbana no Rio de Janeiro - Diagnóstico a partir da percepção do cidadão](https://www.mobilize.org.br/midias/pesquisas/mobilidade-urbana-no-rio-de-janeiro.pdf)**
+*  **[Livro 2](https://www.mobilize.org.br/midias/pesquisas/mobilidade-urbana-no-rio-de-janeiro.pdf)**
+*  **[Livro 3](https://www.mobilize.org.br/midias/pesquisas/mobilidade-urbana-no-rio-de-janeiro.pdf)**
+<br>
+<br>
+
+## Artigos 
+
+<span style=" font-size: 20px; font-weight:bold; color:#1a1a1a;">
+Os projetos interinstitucionais da UNIRIO geram a oportunidade de desenvolver não apenas publicações, mas também artigos. Os artigos produzidos durante o processo são publicados aqui.
+</span>

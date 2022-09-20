@@ -1,0 +1,51 @@
+---
+title: " "
+output: html_document
+summary: 'Práticas pedagógicas no período de pós-pandemia.'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+#output: 
+#  html_document:
+#    includes:
+#      in_header: Google_Analytics_videos.html
+```
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Público alvo
+
+Descrição dos projetos e público alvo.
+
+## Projeto 1
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt mi eget luctus sodales. Nullam enim lectus, malesuada vitae felis id, condimentum aliquam justo. Pellentesque scelerisque leo nec velit fringilla, in auctor felis ultrices. Aenean tincidunt enim a lacinia tempor. Quisque ut metus ac felis placerat cursus nec et risus. Duis semper mollis posuere. Donec mollis mi nisi, at aliquam dui elementum non. Pellentesque orci augue, faucibus ac semper efficitur, lacinia at risus. Duis dignissim purus est, vitae pulvinar lectus sollicitudin eget. Maecenas at odio sed est dictum sagittis. Fusce convallis fringilla libero, non cursus orci mattis a. Donec id interdum sapien. 
+**Público alvo: 999999999**
+<br>
+<br>
+
+## Projeto 2
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt mi eget luctus sodales. Nullam enim lectus, malesuada vitae felis id, condimentum aliquam justo. Pellentesque scelerisque leo nec velit fringilla, in auctor felis ultrices. Aenean tincidunt enim a lacinia tempor. Quisque ut metus ac felis placerat cursus nec et risus. Duis semper mollis posuere. Donec mollis mi nisi, at aliquam dui elementum non. Pellentesque orci augue, faucibus ac semper efficitur, lacinia at risus. Duis dignissim purus est, vitae pulvinar lectus sollicitudin eget. Maecenas at odio sed est dictum sagittis. Fusce convallis fringilla libero, non cursus orci mattis a. Donec id interdum sapien. 
+**Público alvo: 999999999**
+<br>
+<br>
+
+
+## Projeto 3
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt mi eget luctus sodales. Nullam enim lectus, malesuada vitae felis id, condimentum aliquam justo. Pellentesque scelerisque leo nec velit fringilla, in auctor felis ultrices. Aenean tincidunt enim a lacinia tempor. Quisque ut metus ac felis placerat cursus nec et risus. Duis semper mollis posuere. Donec mollis mi nisi, at aliquam dui elementum non. Pellentesque orci augue, faucibus ac semper efficitur, lacinia at risus. Duis dignissim purus est, vitae pulvinar lectus sollicitudin eget. Maecenas at odio sed est dictum sagittis. Fusce convallis fringilla libero, non cursus orci mattis a. Donec id interdum sapien. 
+**Público alvo: 999999999**
+<br>
+<br>
+
+## Projeto 4
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt mi eget luctus sodales. Nullam enim lectus, malesuada vitae felis id, condimentum aliquam justo. Pellentesque scelerisque leo nec velit fringilla, in auctor felis ultrices. Aenean tincidunt enim a lacinia tempor. Quisque ut metus ac felis placerat cursus nec et risus. Duis semper mollis posuere. Donec mollis mi nisi, at aliquam dui elementum non. Pellentesque orci augue, faucibus ac semper efficitur, lacinia at risus. Duis dignissim purus est, vitae pulvinar lectus sollicitudin eget. Maecenas at odio sed est dictum sagittis. Fusce convallis fringilla libero, non cursus orci mattis a. Donec id interdum sapien. 
+**Público alvo: 999999999**
+<br>
+<br>
