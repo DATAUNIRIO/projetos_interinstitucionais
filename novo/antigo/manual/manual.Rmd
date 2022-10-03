@@ -1,0 +1,58 @@
+---
+title: "Esboço do Manual"
+subtitle: "Como acessar a prestação de contas das emendas em seis passos"
+author: "GT Verbas"
+date: "2022-08-30"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Passo 1 
+
+Entre na **plataforma mais brasil**
+
+[https://www.gov.br/plataformamaisbrasil/pt-br/acesso-a-sistemas/acesso-livre](https://www.gov.br/plataformamaisbrasil/pt-br/acesso-a-sistemas/acesso-livre)
+
+## Passo 2
+
+Clique em **"Consultar Convênios/Pré-Convênios"**
+
+## Passo 3
+
+De acordo com o [site da UNIRIO](http://www.unirio.br/acessoinformacao/arquivos/identificacao-institucional), o código da UNIRIO (UNIDADE GESTORA -UG) no SIAFI é: **154034 **
+
+Clique em: "Código da UG do Órgão" e coloque o esse número.
+
+Clique em: "Consultar" como na imagem abaixo
+
+![](C:/Users/Hp/Documents/GitHub/portal_transparencia/exemplo_de_consulta.jpg)
+
+## Passo 4 
+
+Clique no convênio que você está interessado.
+
+![](C:/Users/Hp/Documents/GitHub/portal_transparencia/exemplo_de_consulta2.jpg)
+
+
+Nesse exemplo, vou clicar no convênio 837638/2016.
+
+## Passo 5 
+
+Clique em "Prestação de contas".
+
+
+![](C:/Users/Hp/Documents/GitHub/portal_transparencia/exemplo_de_consulta3.jpg)
+
+e baixe o aquivo com a prestação de contas do convênio.
+
+## Passo 6 
+
+Aqui vamos buscar os arquivos chamados "Parecer", "Relatório" e "Publicações" (se estiverem dispóníveis) para ter uma ideia da execução do projeto.
+
+![](C:/Users/Hp/Documents/GitHub/portal_transparencia/exemplo_de_consulta4.jpg)
+
+
+

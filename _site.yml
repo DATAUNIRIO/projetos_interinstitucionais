@@ -1,0 +1,38 @@
+name: projetos
+output_dir: novo
+navbar:
+  title: Projetos
+  left:
+  - text: Início
+    href: index.html
+  - text: Sobre
+    menu:
+    - text: Projetos
+      href: module1.html
+    - text: Equipe
+      href: module1.html
+    - text: Parceiros
+      href: module1.html
+  - text: Produção Acadêmica
+    menu:
+    - text: Artigos
+      href: module1.html
+    - text: Artigos na Imprensa
+      href: module2.html
+    - text: Livros
+      href: module1.html
+    - text: Capítulos de Livro
+      href: module1.html
+    - text: Relatórios Técnicos
+      href: module1.html
+  - text: Divulgação
+    menu:
+    - text: Mídia
+      href: module1.html
+    - text: Eventos
+      href: module2.html
+    - text: Editais
+      href: module1.html
+output:
+  html_document:
+    theme: yeti

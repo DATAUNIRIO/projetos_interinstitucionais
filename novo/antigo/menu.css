@@ -1,0 +1,273 @@
+body {
+background-color: #f5f3da;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+p {
+    font-size: 20px;
+}
+
+#menu {
+	height:auto;
+        float: left;
+	
+}
+
+#menu a {
+	text-decoration:none;
+	color:#FFFFFF;
+	text-align:center;
+	padding:5px;
+	font-variant:small-caps;
+	font-weight:bold;
+	letter-spacing:1px;
+	
+}
+
+#menu li {
+	list-style-type:none;
+	display:inline-flex;
+	font-size:60%;
+    float: left;
+	margin-top: 1px;
+    margin-left: 1px;
+
+	
+}
+
+#menu1 {
+	height:150px;
+	width:150px;
+	background-color:#119DA4;
+	top:100px;
+    padding: 5px;
+    border-radius: 5px;
+	background: -moz-linear-gradient(#119DA4,#80DED9);  
+    background: linear-gradient(#119DA4,#80DED9);  
+
+}
+#menu1:hover {
+	background: linear-gradient(#3066BE,#6D9DC5);
+	/* background-color:#D1D16C;*/
+}
+
+#menu2 {
+	height:150px;
+	width:150px;
+	background-color:#6D904B;
+	top:100px;
+	margin: auto;
+	padding: 5px;
+    border-radius: 5px;
+    background: -moz-linear-gradient(#6D904B,#0e5766); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#6D904B,#0e5766); /* Standard syntax */
+}
+#menu2:hover {
+	background: linear-gradient(#9FD26D,#0e5766);
+	/*background-color:#9FD26D;*/
+}
+
+
+#menu3 {
+	height:150px;
+	width:150px;
+	background-color:#468C47;
+	top:100px;
+	margin: auto;
+	padding: 5px;
+    border-radius: 5px;
+    background: -moz-linear-gradient(#468C47,#0e5766); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#468C47,#0e5766); /* Standard syntax */
+}
+#menu3:hover {
+	background: linear-gradient(#66CD68,#0e5766);
+	/*background-color:#66CD68; */
+}
+
+#menu4 {
+	height:150px;
+	width:150px;
+	background-color:#327465;
+	top:100px;
+	margin: auto;
+	padding: 5px;
+    border-radius: 5px;
+    background: -moz-linear-gradient(#327465,#0e5766); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#327465,#0e5766); /* Standard syntax */
+}
+#menu4:hover {
+	background: linear-gradient(#55A789,#0e5766);
+	/*background-color:#55A789;*/
+}
+
+#menu5 {
+	height:150px;
+	width:150px;
+	background-color:#4B4B8E;
+	top:100px;
+	padding: 5px;
+    background: -moz-linear-gradient(#4B4B8E,#0e5766); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#4B4B8E,#0e5766); /* Standard syntax */
+}
+#menu5:hover {
+	background: linear-gradient(#6E6DD0,#0e5766);
+	/*background-color:#6E6DD0;*/
+}	
+
+#menu6 {
+	height:150px;
+	width:150px;
+	background-color:#6C498F;
+	top:100px;
+	padding: 5px;
+    border-radius: 5px;
+    background: -moz-linear-gradient(#6C498F,#0e5766); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#6C498F,#0e5766); /* Standard syntax */
+}
+#menu6:hover {
+	background: linear-gradient(#9E6AD1,#0e5766);
+	/*background-color:#9E6AD1;*/
+}	
+
+#menu7 {
+	height:150px;
+	width:150px;
+	background-color:#8E496B;
+	top:100px;
+	padding: 5px;
+    border-radius: 5px;
+    background: -moz-linear-gradient(#8E496B,#0e5766); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#8E496B,#0e5766); /* Standard syntax */
+}
+#menu7:hover {
+	background: linear-gradient(#CF6A9C,#0e5766);
+	/*background-color:#CF6A9C;*/
+}
+
+#menu8 {
+	height:150px;
+	width:150px;
+	background-color:#8C4040;
+	top:100px;
+	padding: 5px;
+    border-radius: 5px;
+    background: -moz-linear-gradient(#8C4040,#0e5766); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#8C4040,#0e5766); /* Standard syntax */
+}
+#menu8:hover {
+	background: linear-gradient(#CD5D5D,#0e5766);
+	/*background-color:#CD5D5D;*/
+}
+
+#menu9 {
+	height:150px;
+	width:150px;
+	background-color:#8E6945;
+	top:100px;
+	padding: 5px;
+    border-radius: 5px;
+    background: -moz-linear-gradient(#8E6945,#0e5766); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#8E6945,#0e5766); /* Standard syntax */
+}
+#menu9:hover {
+	background: linear-gradient(#CF9A65,#0e5766);
+	/*background-color:#CF9A65;*/
+}
+
+.container {
+    width: 94%;
+    margin: 0px auto;
+}
+
+.espacoTexto{
+	float:left;
+    width: 94%;
+     margin: 0px auto;
+	 margin-left: 2.7cm;
+     position: relative;
+
+}
+
+.button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #353482;
+  border: none;
+  color: #f7f4cb ;
+  a{color: #f7f4cb !important;}
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 300px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+  }
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+.button:hover span {
+  padding-right: 25px;
+}
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+header,
+html {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  display: flex;
+  flex-direction: column
+}
+.navList {
+  background-color: #0d2852;
+  border-bottom: 1px solid #0d2852;
+  box-shadow: 0 2px 8px 0px rgba(0, 0, 0, 0.2);
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  z-index:100;/*keep it high*/
+}
+.navList li{
+  float:left;
+}
+.content {
+  flex: 1;
+  overflow: auto;
+  padding: 8px;
+}
+
+.navList a {
+  color: #fff;
+  padding:8px;
+  text-decoration: none;
+  display: block;
+  transition:.3s;
+}
+.navList a:hover{
+  background-color: rgba(255,255,255,0.3);
+}
+
+.navList a[href="#two"]{
+  color: #000;
+  background-color: #fff;
+}
+

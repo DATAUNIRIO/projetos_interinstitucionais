@@ -1,0 +1,65 @@
+---
+title: "Untitled"
+author: "Prof. Steven Dutt Ross"
+date: "2022-09-20"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{css, echo=FALSE}
+header,
+html {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  display: flex;
+  flex-direction: column
+}
+.navList {
+  background-color: #0d2852;
+  border-bottom: 1px solid #0d2852;
+  box-shadow: 0 2px 8px 0px rgba(0, 0, 0, 0.2);
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  z-index:100;/*keep it high*/
+}
+.navList li{
+  float:left;
+}
+.content {
+  flex: 1;
+  overflow: auto;
+  padding: 8px;
+}
+
+.navList a {
+  color: #fff;
+  padding:8px;
+  text-decoration: none;
+  display: block;
+  transition:.3s;
+}
+.navList a:hover{
+  background-color: rgba(255,255,255,0.3);
+}
+
+.navList a[href="#two"]{
+  color: #000;
+  background-color: #fff;
+}
+```
+
+<header> 
+<ul class="navList">
+  <li><a href="http://www.unirio.br/">Descrição do projeto</a></li>
+  <li><a href="http://www.unirio.br/">Avaliação</a></li>
+  <li><a href="http://www.unirio.br/">Relatório Final</a></li>
+  <li><a href="http://www.unirio.br/">Guia de Testes</a></li>
+</ul>
+</header> 
+<br> </br>
+

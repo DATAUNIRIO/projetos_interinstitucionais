@@ -1,0 +1,8 @@
+html_document:
+  self_contained: false
+  lib_dir: libs
+  theme: simplex
+  includes:
+    before_body: _header.html
+    after_body: _footer.html
+  css: libs/uds/styles_blue.css
